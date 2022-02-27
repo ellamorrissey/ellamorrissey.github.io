@@ -8,3 +8,5 @@ My name is Ella Morrissey and I am a junior at Lehigh University studying [journ
 I decided to look at undergraduate enrollment based on what college students are in. I was able to find this information on the [Lehigh University 2021 University Profile](https://oirsa.lehigh.edu/sites/oirsa.lehigh.edu/files/LUprofile_2021.pdf)
 
 <img src="https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Lehigh%20Fall%202021%20(3).png?raw=true" width="300" height="500" />
+
+I am passionate about women's sports and equality and was interested in looking more into the gender wage gap in professional sports. Even as some sports such as tennis and soccer have made incredible strides in gender equity, there are still many sports in which the male and female wage discrepany is over 90%. The infographic below shows the wage differences in 5 of the major sports from 2019-2020 seasons. The data was provided by a {study done by Adelphi University} (https://online.adelphi.edu/articles/male-female-sports-salary/)
