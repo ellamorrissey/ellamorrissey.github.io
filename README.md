@@ -23,3 +23,5 @@ I am a big fan of the Women's National Basketball Association and have attended 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VZ_GWK10NdFnOgTcVmebcUhnQXgiNEkU6jOwuQ0wtgU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='700' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ![Three Countries with the Largest Population](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Three_Countries_with_the_Largest_Population_China_India_U.S._chartbuilder.png?raw=true)
+
+![Percentage of Undergraduate Enrollment at Lehigh Universtiy](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Percent_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
