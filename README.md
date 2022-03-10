@@ -21,3 +21,5 @@ I am passionate about women's sports and equality and was interested in looking 
 ## Major Moments in WNBA History Timeline
 I am a big fan of the Women's National Basketball Association and have attended many games over the years with friends and family. The WNBA has been around for about 25 years so I'd thought it be interesting to look at some major moments in the league's history. From its conception, to big plays and games by hall of fame players, it was interesting to see how the league has evolved over the years. 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1VZ_GWK10NdFnOgTcVmebcUhnQXgiNEkU6jOwuQ0wtgU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='700' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+<img src="https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Three_Countries_with_the_Largest_Population_China_India_U.S._chartbuilder.png?raw=true" />
