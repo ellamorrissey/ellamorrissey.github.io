@@ -26,5 +26,5 @@ I am a big fan of the Women's National Basketball Association and have attended 
 
 ![Percentage of Undergraduate Enrollment at Lehigh Universtiy](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Percentage_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
-The Winter Olympics in Beijing, China lasted a total of 16 days and included 104 events. I decided to look at the best performing nations at the games based on how many metals they won.
+The Winter Olympics in Beijing, China lasted a total of 16 days and included 104 events. I decided to look at the best performing nations at the games based on how many medals they won. It surprised me the United States came in fifth place since they are one of the largest and most historically dominant teams in the games. 
 ![Total Medal Count at Winter Olympics 2022](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Top_5_Performing_Nations_at_the_Winter_Olympics_2022_Total_Medals_Won_in_Winter_Olympics_2022_chartbuilder%20(1).png?raw=true)
