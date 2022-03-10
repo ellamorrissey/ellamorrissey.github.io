@@ -25,3 +25,5 @@ I am a big fan of the Women's National Basketball Association and have attended 
 ![Three Countries with the Largest Population](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Three_Countries_with_the_Largest_Population_China_India_U.S._chartbuilder.png?raw=true)
 
 ![Percentage of Undergraduate Enrollment at Lehigh Universtiy](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Percentage_of_Undergraduate_Enrollment_at_Lehigh_University_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+
+! [Total Medal Count at Winter Olympics 2022](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Top_5_Performing_Nations_at_the_Winter_Olympics_2022_Total_Medals_Won_in_Winter_Olympics_2022_chartbuilder%20(1).png?raw=true)
