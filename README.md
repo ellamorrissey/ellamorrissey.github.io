@@ -31,4 +31,4 @@ The Winter Olympics in Beijing, China lasted a total of 16 days and included 104
 
 ![Lehigh Undergraduate College Enrollment from 2016-2020](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Lehigh_college_enrollment_from_2016-2020_Arts_and_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
-![Life satisfaction vs GDP per capita, 2019](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/_2017_Life_Satisfaction_and_GDP_per_capita_relationship_among_countries_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder%20(1).png?raw=true)
+![Life satisfaction vs GDP per capita, 2019](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/_2019_Life_Satisfaction_and_GDP_per_capita_relationship_among_countries_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
