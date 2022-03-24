@@ -28,3 +28,6 @@ I am a big fan of the Women's National Basketball Association and have attended 
 
 The Winter Olympics in Beijing, China lasted a total of 16 days and included 104 events. I decided to look at the best performing nations at the games based on how many medals they won. It surprised me the United States came in fifth place since they are one of the largest and most historically dominant teams in the games. 
 ![Total Medal Count at Winter Olympics 2022](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Top_5_Performing_Nations_at_the_Winter_Olympics_2022_Total_Medals_Won_in_Winter_Olympics_2022_chartbuilder%20(1).png?raw=true)
+
+![Lehigh college enrollment from 2016-2020]
+(https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Lehigh_college_enrollment_from_2016-2020_Arts_and_Sciences_Business_Engineering_chartbuilder.png?raw=true)
