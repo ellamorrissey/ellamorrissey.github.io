@@ -32,3 +32,6 @@ The Winter Olympics in Beijing, China lasted a total of 16 days and included 104
 ![Lehigh Undergraduate College Enrollment from 2016-2020](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Lehigh_college_enrollment_from_2016-2020_Arts_and_Sciences_Business_Engineering_chartbuilder.png?raw=true)
 
 ![Life satisfaction vs GDP per capita, 2019](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/_2019_Life_Satisfaction_and_GDP_per_capita_relationship_among_countries_Life_satisfaction_in_Cantril_Ladder_(World_Happiness_Report_2019)_chartbuilder.png?raw=true)
+
+In honor of March Madness and my data collection project on college sports athletic attendance, I decided to compare average attendance at men's division 1 college basketball games for the five major conferences. I gathered data from 2010-2019 and it came from the NCAA's attendance records.
+![Average NCAA Men's College Basketball Attendance for Major Five Conferences](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Average_NCAA_Men's_Basketball_Attendance_for_Major_Five_Conferences_Big_10_Big_12__ACC_SEC_Big_East_chartbuilder.png?raw=true)
