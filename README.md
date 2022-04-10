@@ -37,3 +37,6 @@ In honor of March Madness and my data collection project on college sports athle
 ![Average NCAA Men's College Basketball Attendance for Major Five Conferences](https://github.com/ellamorrissey/ellamorrissey.github.io/blob/main/Average_NCAA_Men's_Basketball_Attendance_for_Major_Five_Conferences_Big_10_Big_12__ACC_SEC_Big_East_chartbuilder.png?raw=true)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=15kemrmXObqbWEj9v7E3069n6a6dy8W7c&ehbc=2E312F" width="640" height="480"></iframe>
+
+In creating my own map, I decided to look at the top 20 tallest buildings in the world. The data is from 2022 and althought not surprising, I hadn't considered that most of the world's tallest buildings are located in China, with there being only one in both the United States and Europe that made the list. 
+<iframe src="https://www.google.com/maps/d/embed?mid=12ipa827CnR5V_eDBOZ8v_mk3nYp7iw1S&ehbc=2E312F" width="640" height="480"></iframe>
